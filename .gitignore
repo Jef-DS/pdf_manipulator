@@ -46,3 +46,6 @@ Lib/
 Include/
 Scripts/
 pyvenv.cfg
+
+samples/
+settings.json
