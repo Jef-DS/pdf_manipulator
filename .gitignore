@@ -41,3 +41,8 @@ debugpy*.log
 pydevd*.log
 nodeLanguageServer/**
 nodeLanguageServer.*/**
+
+Lib/
+Include/
+Scripts/
+pyvenv.cfg
